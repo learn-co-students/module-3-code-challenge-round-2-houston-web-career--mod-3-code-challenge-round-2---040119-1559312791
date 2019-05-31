@@ -5,7 +5,7 @@
       "name": "Buzz",
       "tagline": "A Real Bitter Experience.",
       "first_brewed": "09/2007",
-      "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed only once.",
+      "description": "To infinity and beyond",
       "image_url": "https://images.punkapi.com/v2/keg.png",
       "food_pairing": [
         "Spicy chicken tikka masala",
@@ -50,7 +50,7 @@
       "name": "Avery Brown Dredge",
       "tagline": "Bloggers' Imperial Pilsner.",
       "first_brewed": "02/2011",
-      "description": "wow so good!",
+      "description": "",
       "image_url": "https://images.punkapi.com/v2/5.png",
       "food_pairing": [
         "Vietnamese squid salad",
@@ -80,7 +80,7 @@
       "name": "AB:12",
       "tagline": "Imperial Black Belgian Ale.",
       "first_brewed": "07/2012",
-      "description": "An Imperial Black Belgian Ale aged in old Invergordon Scotch whisky barrels with mountains of raspberries, tayberries and blackberries in each cask. Decadent but light and dry, this beer would make a fantastic base for ageing on pretty much any dark fruit - we used raspberries, tayberries and blackberries beause they were local.",
+      "description": "",
       "image_url": "https://images.punkapi.com/v2/7.png",
       "food_pairing": [
         "Tandoori lamb with pomegranate",
@@ -95,7 +95,7 @@
       "name": "AB:07",
       "tagline": "Whisky Cask-Aged Scotch Ale.",
       "first_brewed": "03/2010",
-      "description": "Whisky cask-aged imperial scotch ale. Beer perfect for when the rain is coming sideways. Liquorice, plum and raisin temper the warming alcohol, producing a beer capable of holding back the Scottish chill.",
+      "description": "Whisky cask-aged imperial scotch ale. Beer perfect for when the rain is coming sideways. Liquorice, plum and raisin temper the warming alcohol, producing a beer capable of holding back the Scottish.",
       "image_url": "https://images.punkapi.com/v2/9.png",
       "food_pairing": [
         "Kedgeree",
@@ -140,7 +140,7 @@
       "name": "Arcade Nation",
       "tagline": "Seasonal Black IPA.",
       "first_brewed": "12/2015",
-      "description": "Running the knife-edge between an India Pale Ale and a Stout, this particular style is one we truly love. Black IPAs are a great showcase for the skill of our brew team, balancing so many complex and twisting flavours in the same moment. The citrus, mango and pine from the hops – three of our all-time favourites – play off against the roasty dryness from the malt bill at each and every turn.",
+      "description": "",
       "image_url": "https://images.punkapi.com/v2/12.png",
       "food_pairing": [
         "King prawn kebabs",
@@ -155,7 +155,7 @@
       "name": "Movember",
       "tagline": "Moustache-Worthy Beer.",
       "first_brewed": "11/2009",
-      "description": "A deliciously robust, black malted beer with a decadent dark, dry cocoa flavour that provides an enticing backdrop to the Cascade hops.",
+      "description": "",
       "image_url": "https://images.punkapi.com/v2/13.png",
       "food_pairing": [
         "Vegetable egg scramble",
@@ -231,7 +231,7 @@
       "name": "Russian Doll – India Pale Ale",
       "tagline": "Nesting Hop Bomb.",
       "first_brewed": "08/2014",
-      "description": "The levels of hops vary throughout the range. We love hops, so all four beers are big, bitter badasses, but by tweaking the amount of each hop used later in the boil and during dry- hopping, we can balance the malty backbone with some unexpected flavours. Simcoe is used in the whirlpool for all four beers, and yet still lends different characters to each",
+      "description": "",
       "image_url": "https://images.punkapi.com/v2/18.png",
       "food_pairing": [
         "Spicy chicken skewers",
@@ -246,7 +246,7 @@
       "name": "Hello My Name Is Mette-Marit",
       "tagline": "Lingonberry Double IPA.",
       "first_brewed": "06/2013",
-      "description": "We sent this beer to Norway where it was known as 'Hello, my name is Censored’. You can make up your own mind as to why. This brew was a red berry explosion, with a reisnous bitter edge layered with dry berry tartness.",
+      "description": "",
       "image_url": "https://images.punkapi.com/v2/19.png",
       "food_pairing": [
         "Fårikål (mutton stew) with a spicy twist",
@@ -321,7 +321,7 @@
       "name": "The End Of History",
       "tagline": "The World's Strongest Beer.",
       "first_brewed": "06/2011",
-      "description": "The End of History: The name derives from the famous work of philosopher Francis Fukuyama, this is to beer what democracy is to history. Complexity defined. Floral, grapefruit, caramel and cloves are intensified by boozy heat.",
+      "description": "A mouse?",
       "image_url": "https://images.punkapi.com/v2/24.png",
       "food_pairing": [
         "Roasted wood pigeon with black pudding",
@@ -336,7 +336,7 @@
       "name": "Bad Pixie",
       "tagline": "Spiced Wheat Beer.",
       "first_brewed": "10/2008",
-      "description": "2008 Prototype beer, a 4.7% wheat ale with crushed juniper berries and citrus peel.",
+      "description": "2008 Prototype beer, a 4.7% wheat ale with crushed juniper berries and citrus.",
       "image_url": "https://images.punkapi.com/v2/25.png",
       "food_pairing": [
         "Poached sole fillet with capers",
